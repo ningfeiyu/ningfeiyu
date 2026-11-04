@@ -9,14 +9,14 @@
 ### 📊 GitHub 统计
 
 <p align="center">
-  <img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ningfeiyu&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180" alt="GitHub stats" src="https://github-readme-stats-nings.vercel.app/api?username=ningfeiyu&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="180" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=ningfeiyu&theme=tokyonight" />
 </p>
 
 ### 🔤 语言占比
 
 <p align="center">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ningfeiyu&layout=compact&theme=tokyonight&langs_count=8" />
+  <img alt="Top languages" src="https://github-readme-stats-nings.vercel.app/api/top-langs/?username=ningfeiyu&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
 
 ### 🐍 贡献贪吃蛇
